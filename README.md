@@ -6,7 +6,7 @@
 1. Install Node.js & MongoDB if you haven't already.
 
 2. Clone this repository and install its dependencies.
- > git clone git://github.com/braitsch/node-login.git node-login
+ > git clone https://github.com/fjpatil/NodeJS_Full_Stack_App.git node-login
  > cd node-login
  > npm install
 
@@ -27,7 +27,7 @@ v.   Local Cookie Storage for Returning Users
 vi.  Blowfish-based Scheme Password Encryption
 
 # Login
-![](images/node-login.jpg)
+
 
 # Signup
 ![](images/signup.jpg)
