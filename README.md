@@ -43,3 +43,7 @@ export NL_EMAIL_USER='fjpatil@gmail.com'
 export NL_EMAIL_PASS='fjpatil123'  
 
  ![](images/retrieve-password.jpg)
+
+# MongoDB Signup Data Screenshot
+
+![](images/MongoDB_User_creation_data.JPG)
